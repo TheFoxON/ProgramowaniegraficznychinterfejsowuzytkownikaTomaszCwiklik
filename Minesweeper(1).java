@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Random;
 
-public class Minesweeper extends JFrame {
+public class MinesweeperEasterEgg extends JFrame {
 
     private static final int ROWS = 4;
     private static final int COLS = 3;
